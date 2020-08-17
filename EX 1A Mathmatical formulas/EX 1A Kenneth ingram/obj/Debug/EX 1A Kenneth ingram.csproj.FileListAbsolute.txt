@@ -1,0 +1,7 @@
+N:\MSSA notes and storage\coding\C#\exercises\EX 1A Kenneth ingram\EX 1A Kenneth ingram\obj\Debug\EX 1A Kenneth ingram.csprojAssemblyReference.cache
+N:\MSSA notes and storage\coding\C#\exercises\EX 1A Kenneth ingram\EX 1A Kenneth ingram\obj\Debug\EX 1A Kenneth ingram.csproj.CoreCompileInputs.cache
+N:\MSSA notes and storage\coding\C#\exercises\EX 1A Kenneth ingram\EX 1A Kenneth ingram\bin\Debug\EX 1A Kenneth ingram.exe.config
+N:\MSSA notes and storage\coding\C#\exercises\EX 1A Kenneth ingram\EX 1A Kenneth ingram\bin\Debug\EX 1A Kenneth ingram.exe
+N:\MSSA notes and storage\coding\C#\exercises\EX 1A Kenneth ingram\EX 1A Kenneth ingram\bin\Debug\EX 1A Kenneth ingram.pdb
+N:\MSSA notes and storage\coding\C#\exercises\EX 1A Kenneth ingram\EX 1A Kenneth ingram\obj\Debug\EX 1A Kenneth ingram.exe
+N:\MSSA notes and storage\coding\C#\exercises\EX 1A Kenneth ingram\EX 1A Kenneth ingram\obj\Debug\EX 1A Kenneth ingram.pdb
